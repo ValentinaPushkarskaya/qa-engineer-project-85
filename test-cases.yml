@@ -6,7 +6,7 @@
   prerequisites: |
     Открыта главная страница игры - https://codebattle.hexlet.io/
   test-data: |
-    
+    Нет данных
   steps:
     - Нажимаем кнопку TRY SIMPLE BATTLE/ ПОПРОБУЙТЕ ПРОСТУЮ БИТВУ
   expected-result: |
@@ -51,7 +51,7 @@
   prerequisites: |
    Пользователь авторизован и находится на главной странице - https://codebattle.hexlet.io/#lobby
   test-data: |
-    
+    Нет данных
   steps:
     - Нажимаем на "TOURNAMENTS"/"Турниры"
   expected-result: |
@@ -65,7 +65,7 @@
     Пользователь авторизован
     Открыта главная страница - https://codebattle.hexlet.io/#lobby
   test-data: |
-   
+   Нет данных
   steps:
     - Нажимаем кнопку "Fight"/ "Сражаться"
   expected-result: |
@@ -112,7 +112,7 @@
   prerequisites: |
     Открыта главная страница - https://codebattle.hexlet.io/#lobby
   test-data: |
-    
+    Нет данных
   steps:
     - Нажать кнопку "CREATE A GAME"/ "СОЗДАЙТЕ ИГРУ"
     - Выбрать игру с ботом
@@ -177,7 +177,7 @@
   prerequisites: |
     Открыта страница - https://codebattle.hexlet.io/
   test-data: |
-   
+   Нет данных
   steps:
     - Скролим страницу вниз пока не встретим раздел "DESCRIPTION"/"ОПИСАНИЕ"
   expected-result: |
@@ -190,7 +190,7 @@
   prerequisites: |
     Открыта страница - https://codebattle.hexlet.io/
   test-data: |
-
+    Нет данных
   steps:
     - Нажать на кнопку "Sign in"/"Вход"
   expected-result: |
@@ -203,7 +203,7 @@
   prerequisites: |
     Открыта страница - https://codebattle.hexlet.io/
   test-data: |
-
+    Нет данных
   steps:
     - Нажать на кнопку "Sign up"/"Регистрация"
   expected-result: |
@@ -217,7 +217,7 @@
     Пользователь авторизован
     Открыта страница - https://codebattle.hexlet.io/#lobby
   test-data: |
-
+    Нет данных
   steps:
     - Нажать кнопку "CREATE A GAME"/ "СОЗДАЙТЕ ИГРУ"
     - Выбрать игру с ботом
@@ -235,7 +235,7 @@
     Пользователь авторизован
     Открыта страница - https://codebattle.hexlet.io/#lobby
   test-data: |
-
+    Нет данных
   steps:
     - Нажать кнопку "CREATE A GAME"/ "СОЗДАЙТЕ ИГРУ"
     - Выбрать игру с ботом
